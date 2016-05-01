@@ -24,7 +24,7 @@
   <project path="packages/apps/DeskClock" name="MI-4i/platform_packages_apps_DeskClock" revision="nn7.0" />
   <!--project path="packages/apps/InCallUI" name="MI-4i/platform_packages_apps_InCallUI" revision="nn7.0" /-->
   <project path="packages/apps/OmniSwitch" name="MI-4i/platform_packages_apps_OmniSwitch" revision="nn7.0" />
-  <project path="packages/apps/PackageInstaller" name="MI-4i/platform_packages_apps_PackageInstaller" revision="nn7.0" />
+  <!--project path="packages/apps/PackageInstaller" name="MI-4i/platform_packages_apps_PackageInstaller" revision="nn7.0" /-->
   <project path="packages/apps/Settings" name="MI-4i/platform_packages_apps_Settings" revision="nn7.0" />
   <project path="packages/apps/ThemeChooser" name="MI-4i/platform_packages_apps_ThemeChooser" revision="nn7.0" />
   <project path="packages/inputmethods/LatinIME" name="MI-4i/platform_packages_inputmethods_LatinIME" revision="nn7.0" />
