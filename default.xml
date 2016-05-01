@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-6.0.1_r31" />
+           revision="refs/tags/android-n-preview-2" />
 
   <remote  name="github"
            fetch=".." />
@@ -15,7 +15,8 @@
           revision="mm6.0" />
           
   <remote name="MI-4i"
-          fetch="https://github.com/MI-4i" />
+          fetch="https://github.com/MI-4i"
+          revision="mm7.0" />
 
   <remote name="cm"
           fetch="https://github.com/CyanogenMod" 
