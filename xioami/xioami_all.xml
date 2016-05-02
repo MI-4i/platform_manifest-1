@@ -13,7 +13,7 @@
   <project path="vendor/xiaomi/ferrari" name="MI-4i/android_vendor_xiaomi_ferrari" />
   <project path="packages/apps/SnapdragonCamera" name="MI-4i/packages_apps_SnapdragonCamera" />
   
-  <project path="device/qcom/sepolicy" name="MI-4i/platform_device_qcom_sepolicy" revision="nn7.0" />
+  <project path="device/qcom/sepolicy" name="MI-4i/device_qcom_sepolicy" revision="nn7.0" />
   <project path="external/busybox" name="MI-4i/platform_external_busybox" revision="nn7.0" />
   <!--project path="external/chromium-webview" name="MI-4i/platform_external_chromium-webview" clone-depth="1" revision="nn7.0" /-->
   <project path="external/sepolicy" name="MI-4i/platform_external_sepolicy" revision="nn7.0" />
