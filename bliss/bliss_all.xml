@@ -4,6 +4,6 @@
 
   <project path="packages/apps/BlissOTA" name="chummydevteam/TeamBlissOTA" revision="m" />
   <project path="packages/apps/CalendarWidget" name="DirtyUnicorns/android_packages_apps_CalendarWidget" revision="m" />
-  <project path="vendor/cmsdk" name="BlissRoms/platform_sdk" revision="mm6.0" />
+  
 
 </manifest>
